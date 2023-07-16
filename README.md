@@ -1,5 +1,4 @@
-### Hi 👋, I'm Katrina Mäeorg!
--
+## Hi 👋, I'm Katrina Mäeorg!
 
 - 💻 I’m a fullstack developer
 
