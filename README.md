@@ -1,11 +1,10 @@
 # Hi there, I'm Katrina Mäeorg! 👋
 
-- 💻 Fullstack software developer
+- 💻 I'm a junior **fullstack software developer**
 - 🌱 Currently learning an advanced Java course (Spring, Hibernate, REST API) (June-Sept 2023)
-- 🏹 Student at kood/Jõhvi https://kood.tech/
-- 📫 How to reach me: https://www.linkedin.com/in/katrina-maeorg/
-
- Languages and Tools:
+- 🏹 Starting studies at [kood/Jõhvi](https://kood.tech/) in spring 2023. Focus on Go, Javascript, Rust, but also C, C++, Ruby-on-Rails, PHP, Python and more.
+---
+ **Languages and Tools:**
 - Java
 - Spring, REST
 - Python
@@ -15,7 +14,9 @@
 - Golang
 - C
 - SQL
-
+---
+  📫 [LinkedIn](https://www.linkedin.com/in/katrina-maeorg/)
+  
 <!--
 **maeorg/maeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
