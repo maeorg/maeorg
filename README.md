@@ -1,6 +1,7 @@
 # Hi there, I'm Katrina Mäeorg! 👋
 
 - 💻 I’m a fullstack developer
+- 🌱 I’m currently learning more advanced Java (Spring, Hibernate, REST API)
 
  Languages and Tools:
 - Java
