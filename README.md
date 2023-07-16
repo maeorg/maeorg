@@ -1,9 +1,17 @@
-## Hi 👋, I'm Katrina Mäeorg!
+# Hi there, I'm Katrina Mäeorg! 👋
 
 - 💻 I’m a fullstack developer
 
  Languages and Tools:
-- 
+- Java
+- Spring, REST
+- Python
+- Flask, Django
+- CSS, HTML, Bootstrap
+- Javascript
+- Golang
+- C
+- SQL
 
 <!--
 **maeorg/maeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
