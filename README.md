@@ -2,7 +2,7 @@
 
 - 💻 I’m a fullstack developer
 
-# Languages and Tools:
+ Languages and Tools:
 - 
 
 <!--
