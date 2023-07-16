@@ -1,4 +1,9 @@
-### Hi there 👋, I'm Katrina Mäeorg!
+### Hi 👋, I'm Katrina Mäeorg!
+
+- 💻 I’m a fullstack developer
+
+# Languages and Tools:
+- 
 
 <!--
 **maeorg/maeorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
