@@ -2,7 +2,7 @@
 
 - 💻 I’m a fullstack developer
 - 🌱 I’m currently learning an advanced Java course (Spring, Hibernate, REST API) (June-Sept 2023)
-- - 📫 How to reach me: https://www.linkedin.com/in/katrina-maeorg/
+- 📫 How to reach me: https://www.linkedin.com/in/katrina-maeorg/
 
  Languages and Tools:
 - Java
