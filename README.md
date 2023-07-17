@@ -2,7 +2,7 @@
 
 - 💻 I'm a junior **fullstack software developer**
 - 🌱 Currently learning an advanced Java course (Spring, Hibernate, REST API) (June-Sept 2023)
-- 🏹 Starting studies at [kood/Jõhvi](https://kood.tech/) in spring 2023. Focus on Go, Javascript, Rust, but also C, C++, Ruby-on-Rails, PHP, Python and more.
+- 🏹 Starting studies at [kood/Jõhvi](https://kood.tech/) in autumn 2023. Focus on Go, Javascript, Rust, but also C, C++, Ruby-on-Rails, PHP, Python and more.
 ---
  **Languages and Tools:**
 - Java
