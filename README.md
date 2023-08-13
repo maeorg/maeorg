@@ -1,6 +1,6 @@
 # Hi there, I'm Katrina Mäeorg! <img src="https://i.pinimg.com/originals/5b/ba/39/5bba3962f78bac3777d220c570d5b178.gif" width="70" height="70" />
 
-- 💻 I'm a junior **fullstack software developer**
+- 💻 I'm a **junior fullstack software developer**
 - 🌱 Currently learning an advanced Java course (Spring, Hibernate, REST API) (June-Sept 2023)
 ---
  **Languages and Tools:**
